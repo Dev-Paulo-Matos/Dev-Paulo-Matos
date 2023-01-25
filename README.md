@@ -19,3 +19,8 @@
   <a href="https://www.linkedin.com/in/paulo-machado-34a0461b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+  ## Status do que estou fazendo atualmente 🆙
+<div>
+  <p>Atualmente estou trabalhando em um projeto em node de authenticação de usuario, irei commitar as atualizações todos os dias.</p>  
+</div>
