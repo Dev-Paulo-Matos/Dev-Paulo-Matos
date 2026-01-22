@@ -16,7 +16,7 @@ Atuo principalmente com **produtos digitais, sistemas administrativos, dashboard
 
 ---
 
-### 🛠️ Tecnologias que utilizo
+### 🛠️ Tecnologias que trabalho
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -27,12 +27,6 @@ Atuo principalmente com **produtos digitais, sistemas administrativos, dashboard
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-paulo-matos&show_icons=true&theme=radical)
-
----
 
 ### 🔄 O que estou desenvolvendo atualmente
 Atualmente estou trabalhando em um **projeto de autenticação de usuários com Node.js**, focado em boas práticas de segurança, organização de código e escalabilidade.  
